@@ -1,4 +1,4 @@
-node-peer-ui
+peer-ui
 ============
 
 Peer style UI framework
